@@ -33,7 +33,7 @@ Make sure **Node.js** and **MongoDB** are installed on your system.
 
 ```bash
 # Clone the project
-git clone https://github.com/yourusername/quora-posts-app.git
+git clone https://github.com/iprabhakersingh/MiniQuora.git
 
 # Navigate into directory
 cd quora-posts-app
